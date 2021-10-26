@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MobileAppDevelopment/Demos/Demo1/app/src/main/res/drawable/gradient_background.xml" value="0.45092592592592595" />
+        <entry key="..\:/MobileAppDevelopment/Demos/Demo1/app/src/main/res/drawable/gradient_background_2.xml" value="0.2638888888888889" />
+        <entry key="..\:/MobileAppDevelopment/Demos/Demo1/app/src/main/res/layout/activity_cross_fade_animation.xml" value="0.1" />
+        <entry key="..\:/MobileAppDevelopment/Demos/Demo1/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/MobileAppDevelopment/Demos/Demo1/app/src/main/res/layout/activity_screen_slide.xml" value="0.1" />
+        <entry key="..\:/MobileAppDevelopment/Demos/Demo1/app/src/main/res/layout/activity_slide_animation.xml" value="0.1" />
+        <entry key="..\:/MobileAppDevelopment/Demos/Demo1/app/src/main/res/layout/activity_view_pager_animation.xml" value="0.334375" />
+        <entry key="..\:/MobileAppDevelopment/Demos/Demo1/app/src/main/res/layout/fragment_screen_slide_page.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
